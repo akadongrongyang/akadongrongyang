@@ -1,6 +1,6 @@
 ### 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=akadongrongyang&show_icons=true&theme=dark&count_private=true)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akadongrongyang&show_icons=true&theme=white&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akadongrongyang&theme=dark&layout=compact)
 
 <!--
 **akadongrongyang/akadongrongyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
